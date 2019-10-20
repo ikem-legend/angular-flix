@@ -1,8 +1,0 @@
-img {
-	position: absolute;
-    top: 0;
-    left: 0;
-    height: 500px;
-    width: 100%;
-    width: -webkit-fill-available;
-}
