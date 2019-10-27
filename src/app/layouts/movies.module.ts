@@ -4,9 +4,9 @@ import { NgModule } from '@angular/core';
 import { MoviesListComponent } from '../components/movie-single.component';
 
 @NgModule({
-  declarations: [
-    MoviesListComponent
-  ],
+  // declarations: [
+  //   MoviesListComponent
+  // ],
   // imports: [
   //   BrowserModule
   // ],
